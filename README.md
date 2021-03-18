@@ -17,7 +17,7 @@ Objetivos Específicos
 
 2. MARCO TEÓRICO
 
-![.]()
+![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Mapa_Fasores.png)
 
 3. DIAGRAMAS
 
