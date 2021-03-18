@@ -1,4 +1,24 @@
 # Laboratorio-7
-
 FASORES.
 
+1. OBJETIVOS
+
+
+Objetivo General
+
+
+Objetivos Específicos
+
+2. MARCO TEÓRICO
+
+3. DIAGRAMAS
+
+4. LISTA DE COMPONENTES
+
+5. EXPLICACIÓN
+
+6. CONCLUSIONES
+
+7. BIBLIOGRAFÍAS
+
+8. ANEXOS
