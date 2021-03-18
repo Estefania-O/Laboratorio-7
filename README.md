@@ -27,4 +27,6 @@ Objetivos Específicos
 
 7. BIBLIOGRAFÍAS
 
+Números complejos y fasores en Polar y Forma Rectangular. (s. f.). Tutoriales de electrónica básica. Recuperado 18 de marzo de 2021, de https://tutorialesdeelectronicabasica.blogspot.com/2016/06/numeros-complejos-y-fasores-en-polar-y.html
+
 8. ANEXOS
