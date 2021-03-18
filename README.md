@@ -23,6 +23,10 @@ Objetivos Específicos
 
 4. LISTA DE COMPONENTES
 
+|**CANTIDAD**|**ELEMENTO**|
+|:----:|:----:|
+|1|Calculadora Científica|
+
 5. EXPLICACIÓN
 
 6. CONCLUSIONES
