@@ -3,9 +3,15 @@ FASORES.
 
 1. OBJETIVOS
 
+•	Identificar las operaciones aritméticas necesarias para la solución de los ejercicios planteados.
 
 Objetivo General
 
+•	Analizar la relación entre la forma polar y rectangular   para realizar las conversiones necesarias.
+
+•	Identificar formulas necesarias para la resolución de los ejercicios.
+
+•	Analizar la forma más factible para la resolución de cada ejercicio tomando en cuenta que operación debemos realizar y si el resultado nos pide de forma polar o rectangular.
 
 Objetivos Específicos
 
