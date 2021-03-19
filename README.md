@@ -24,6 +24,10 @@ Objetivos Específicos
 
 ![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Tension_senoidal.png)
 
+Diagrama fasorial 
+
+A la izquierda se observa el diagrama fasorial de la operación en un instante t=0 s. A la derecha se observa la forma de curva de cada señal, y su suma, en función de ωt.
+
 ![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Diagrama_Fasorial.png)
 
 ![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Representacion_Rectangular.png)
