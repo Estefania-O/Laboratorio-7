@@ -22,6 +22,10 @@ Objetivos Específicos
 
 **3. DIAGRAMAS**
 
+![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Tension_senoidal.png)
+
+![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Diagrama_Fasorial.png)
+
 **4. LISTA DE COMPONENTES**
 
 |**CANTIDAD**|**ELEMENTO**|
