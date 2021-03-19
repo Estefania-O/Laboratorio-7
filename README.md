@@ -1,6 +1,6 @@
 # Laboratorio-7
 
-##FASORES
+## FASORES
 
 **1. OBJETIVOS**
 
