@@ -26,6 +26,8 @@ Objetivos Específicos
 
 ![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Diagrama_Fasorial.png)
 
+![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Representacion_Rectangular.png)
+
 **4. LISTA DE COMPONENTES**
 
 |**CANTIDAD**|**ELEMENTO**|
