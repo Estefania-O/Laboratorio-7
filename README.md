@@ -36,7 +36,7 @@ A la izquierda se observa el diagrama fasorial de la operación en un instante t
 
 Representación rectangular 
 
-Donde a es la parte real y b es la parte imaginaria j 
+Donde **a** es la parte real y **b** es la parte imaginaria j.
 
 ![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Representacion_Rectangular.png)
 
