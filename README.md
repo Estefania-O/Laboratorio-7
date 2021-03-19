@@ -59,5 +59,7 @@ Donde **a** es la parte real y **b** es la parte imaginaria j.
 Números complejos y fasores en Polar y Forma Rectangular. (s. f.). Tutoriales de electrónica básica. Recuperado 18 de marzo de 2021, de https://tutorialesdeelectronicabasica.blogspot.com/2016/06/numeros-complejos-y-fasores-en-polar-y.html
 
 **8. ANEXOS**
+
 Los anexos se encuentran en el siguiente link:
+
 https://github.com/Estefania-O/Laboratorio-7/blob/main/Anexos/Calculos_Gu%C3%ADa%207.pdf
