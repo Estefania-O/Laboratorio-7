@@ -34,6 +34,10 @@ A la izquierda se observa el diagrama fasorial de la operación en un instante t
 
 ![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Diagrama_Fasorial.png)
 
+Representación rectangular 
+
+Donde a es la parte real y b es la parte imaginaria j 
+
 ![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Representacion_Rectangular.png)
 
 **4. LISTA DE COMPONENTES**
