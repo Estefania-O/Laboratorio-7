@@ -22,6 +22,10 @@ Objetivos Específicos
 
 **3. DIAGRAMAS**
 
+Tensión senoidal
+
+Vm es la amplitud máxima de V(t) medida en voltios, ω es la frecuencia angular medida en radianes por segundo, t es el tiempo medido en segundos, y Ø es el ángulo de fase de la tensión senoidal medido en grados con respecto a la tensión o corriente de referencia.
+
 ![.](https://github.com/Estefania-O/Laboratorio-7/blob/main/img/Tension_senoidal.png)
 
 Diagrama fasorial 
